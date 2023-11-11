@@ -1,0 +1,161 @@
+header{
+    height: 40px;
+    width: 100%;
+    background-color: #ca8aaa; 
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+
+header div{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+header div .div-Section{
+    width: 500px;
+    height: auto;
+    /* Eliminar puntos de la lista */
+    list-style: None;
+    display: flex;
+    justify-content: center;
+    /* Centrado verticalemente */
+    align-items: center;   
+}
+
+a{
+    text-decoration: None;
+}
+div  .div-Section a{
+    color: black;
+    /* Separa los elementos, agregar margen a la derecha de los elementos, como un espacio */
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px; 
+}
+body{
+    /* background-image: url(Images/fondo5.avif); */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #AAE1FA;
+}
+main{
+    margin-top: 0%;
+}
+
+h1{
+    font-size: 110px;
+    /* font-family: 'Josefin Slab', serif; */
+    font-family: 'Antonio', sans-serif;
+    
+}
+
+main .TituloP{
+    display: flex;
+    justify-content: center;
+    padding-left: 15px;
+    padding-bottom: None;
+    margin-bottom: 0%;
+    padding-top: 0%;
+    margin-top: 2%;
+}
+
+main .TituloP2{
+    display: flex;
+    justify-content: center;
+    padding-left: 15px;
+    padding-top: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-bottom: 3%;
+}
+h4{
+    /* font-family: 'Nova Slim', sans-serif; */
+    /* font-family: 'Trochut', sans-serif; */
+    font-family: 'Moulpali', sans-serif;
+    font-size: 50px;
+
+}
+h5{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+
+}
+h2{
+    font-family: 'Trochut', sans-serif; 
+}
+
+p{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 25px;
+}
+main .Tit1{
+    margin-bottom: 0%;
+    padding-bottom: 0%; 
+}
+
+footer{
+    width: 100%;
+    height: 500px;
+    background-color: #ca8aaa; 
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    margin-top: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* EDICION IMGENES */
+.img1{
+    width: 500px;
+    padding-left: 400px; 
+    padding-top: 0%;
+    margin-top: 0%;
+}
+
+.img2{
+    width: 400px;
+    margin-left: 400px;
+}
+
+.img3{
+    width: 400px;
+    margin-left: 400px;
+}
+
+.img4{
+    width: 400px;
+    margin-left: 400px;
+}
+
+.img5{
+    width: 400px;
+    margin-left: 400px;
+}
+
+.img6{
+    width: 400px;
+    margin-left: 400px;
+}
+.img7{
+    width: 400px;
+    margin-left: 400px;
+}
+
+.img8{
+    width: 400px;
+    margin-left: 400px;
+}
+.img9{
+    width: 400px;
+    margin-left: 400px;
+    border-radius: 100px;
+}
+
+
+
